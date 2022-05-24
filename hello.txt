@@ -14,3 +14,4 @@ hello git!hot-fix test
 hello git!remote test
 after clone test
 after SSH config
+after SSH pull local push
